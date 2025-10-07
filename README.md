@@ -1,1 +1,1 @@
-# wp-media-contracts
+# WP Media Wrapper
